@@ -1,5 +1,6 @@
-# psychic-pancake
-This repository will contain all the analytics projects reports, data, code, ppts and other files from analytics tools which I have worked on during my post graduation.
+# Image - Recognition
+Build a Simple Image Recognition System with TensorFlow and Build a Simple Algorithm to convert 2D image to 3D.
+The minst digit data set
 
 
 
